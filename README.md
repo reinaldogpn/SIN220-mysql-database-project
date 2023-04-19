@@ -8,5 +8,5 @@ Ref.: https://github.com/owid/covid-19-data/tree/master/public/data
 
 Autores: 
 
-**Gabriel Sávio (6319)
-Reinaldo Gonçalves P. Neto (7627)**
+**Gabriel Sávio (6319)**
+**Reinaldo Gonçalves P. Neto (7627)**
