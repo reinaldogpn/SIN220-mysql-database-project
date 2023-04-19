@@ -1,6 +1,6 @@
 # SIN220-mysql-database-project
 
-Projeto desenvolvido para a discplina de Banco de Dados (SIN220)
+Projeto desenvolvido para a disciplina de Banco de Dados (SIN220)
 na Universidade Federal de Viçosa (UFV/CRP).
 
 Normalização de dataset com dados sobre COVID-19. 
