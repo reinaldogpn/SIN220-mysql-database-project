@@ -7,7 +7,7 @@ Normalização de dataset com dados sobre COVID-19.
 
 Ref.: https://github.com/owid/covid-19-data/tree/master/public/data
 
-# Autores: 
+## Autores
 
 **Gabriel Sávio (6319)**
 
